@@ -46,4 +46,9 @@ Estudar com consistência, praticar diariamente e construir uma base sólida par
 
 ---
 
+
+![Zis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eaezis&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaezis&layout=compact&theme=radical)
+
+
 💬 Qualquer dica, feedback ou sugestão é bem-vinda!
