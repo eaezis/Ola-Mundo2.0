@@ -21,6 +21,26 @@ h2
 color: rgb(19, 118, 151);
 }
 
+.basico 
+{
+color: rgb(19, 118, 151);
+font-weight: bold;
+}
+
+.intermediario 
+{
+color: rgb(235, 203, 21);
+}
+
+.avancado
+{
+    color: rgb(187, 18, 18);
+}
+
+.destaque 
+{
+    background-color: rgba(227, 227, 69, 0.505);
+}
 /*       TUDO EM QUE...
     em HTML é id = em Css é # 
     em HTML é class = em Css é . 
